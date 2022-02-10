@@ -1,0 +1,19 @@
+{
+  "name": "blogposts",
+  "version": "1.0.0",
+  "description": "API to fetch information on blog posts",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "supertest": "^6.2.2"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
